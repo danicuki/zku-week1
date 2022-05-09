@@ -7,3 +7,11 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+Q2/contracts/*.sol
+Q3/contracts/*.sol
+Q2/contracts/circuits/HelloWorld/
+Q2/contracts/circuits/Multiplier3/
+Q2/contracts/circuits/Multiplier3_plonk/
+Q3/contracts/circuits/LessThan10/
+powersOfTau28_hez_final_10.ptau
